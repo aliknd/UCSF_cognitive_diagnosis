@@ -2,3 +2,5 @@
 heartrate_15min.csv
 minuteStepsNarrow.csv
 Diagnoses_20250404.csv
+tabular_features.csv
+hr_steps_14day_features.csv
